@@ -137,11 +137,14 @@ Grad-CAM was used to visualize the regions influencing the model's prediction. T
 - ROC-AUC evaluation
 - Confusion matrix analysis
 
-## 🔐 Source Code
+## 🔐 Source Code Availability
 
-This repository is a **project showcase**.
+**The source code for this project is not publicly available due to
+project and access restrictions.
 
-The original implementation notebook, dataset, reports and other academic project files are **not included in this public repository**.
+This repository is provided as a project showcase containing the
+project methodology, model architecture, evaluation results,
+explainability visuals, and selected project outputs.**
 
 ## 👨‍💻 Developer
 
