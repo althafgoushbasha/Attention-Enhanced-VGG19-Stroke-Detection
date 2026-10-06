@@ -101,32 +101,31 @@ Grad-CAM was used to visualize the regions influencing the model's prediction. T
 
 ### Model Architecture
 
-![Model Architecture](images/model-architecture.jpeg)
+![Model Architecture](./model-architecture.jpeg)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion-matrix.png)
+![Confusion Matrix](./confusion-matrix.png)
 
 ### ROC Curve
 
-![ROC Curve](images/roc-curve.png)
+![ROC Curve](./roc-curve.png)
 
 ### Grad-CAM — Stroke Case
 
-![Grad-CAM Stroke](images/gradcam-stroke.jpeg)
+![Grad-CAM Stroke](./gradcam-stroke.jpeg)
 
 ### Grad-CAM — Normal Case
 
-![Grad-CAM Normal](images/gradcam-normal.jpeg)
+![Grad-CAM Normal](./gradcam-normal.jpeg)
+
 
 ### Classification Output
 
-![Classification Output](images/classification-output.jpeg)
-
+![Classification Output](./classification-output.jpeg)
 ### Model Comparison
 
-![Model Comparison](images/model-comparison.jpeg)
-
+![Model Comparison](./model-comparison.jpeg)
 ## 🚀 Key Highlights
 
 - Attention-enhanced VGG19 architecture
